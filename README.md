@@ -6,3 +6,4 @@ This is a simple Node.js server that provides system information and demonstrate
 2. Navigate to the project directory.
 3. Then run the node server.js
 
+![image](https://github.com/user-attachments/assets/af5347ca-5080-4f33-92d8-211c15e9f65b)
