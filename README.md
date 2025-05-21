@@ -1,4 +1,4 @@
-# Node.js System Info Server
+# Node.js 
 This is a simple Node.js server that provides system information and demonstrates the use of core Node.js modules like `http`, `os`, `path`, and `events`.
 
 #Installation
